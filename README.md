@@ -6,9 +6,11 @@ This Flutter application fetches and displays a list of cities in **Saudi Arabia
 
 ## Features
 
-- Fetches data from a public API
-- Displays cities in a scrollable list (`ListView`)
+- **Fetch Cities**: Uses an API to fetch a list of cities in Saudi Arabia.
+- **Display Cities**: Cities are displayed in a simple, scrollable list using Flutter's ListView.
 
 ---
 
 ## Screenshot
+
+<img width="498" alt="API" src="https://github.com/user-attachments/assets/ff34a832-0e90-48fb-b55e-9d82e624e3da" />
