@@ -1,8 +1,4 @@
 import 'package:dio/dio.dart';
-
-import 'city.dart';
-
-import 'package:dio/dio.dart';
 import 'city.dart';
 
 class ApiService {
